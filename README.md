@@ -6,4 +6,4 @@ Pré-fixa: Onde operador precede operandos: *+ABC (notação polonesa).<br/><br/
 
 A grande vantagem da notação pós-fixa e da pré-fixa para a notação infixa, é que ela dispensa o uso de parêntes nas operações matemáticas.
 
-https://youtu.be/U4SVsRPPer8
+https://youtu.be/CndMuTHoBcg
